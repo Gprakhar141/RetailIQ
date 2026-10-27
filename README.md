@@ -1,4 +1,4 @@
-# Retail Q&A Tool
+# RetailIQ
 
 A Streamlit application that answers natural-language questions over a retail T-shirt database using LangChain, Groq LLM, few-shot prompting, and MySQL.
 
